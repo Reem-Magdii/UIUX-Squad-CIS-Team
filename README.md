@@ -55,7 +55,7 @@
     - Arabic : [Youtube Video](https://www.youtube.com/watch?v=mWYq_GJHxkI&list=PLlvTc0FA7nC8KzA_7-6W0zinKcKzoPYwc&index=6)
                 / [Youtube Video](https://www.youtube.com/watch?v=L3wFTVWNqJI)
       
-    -**🔵Articles**
+    **🔵Articles**
     - English : [Colors basics](https://www.interaction-design.org/literature/topics/color-theory)            
    
   
