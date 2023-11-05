@@ -77,8 +77,8 @@
     - Arabic  : [Youtube Video](https://www.youtube.com/watch?v=Puqqgs_uLi4&t=5s)
       
     **🔷 Articles**
-    - [Typography Bascis](https://www.nngroup.com/articles/using-grids-in-interface-designs/)
-       / [Typography Bascis](https://uxplanet.org/ui-ux-design-grid-system-d1c35369628c)
+    - [Typography Bascis](https://www.nngroup.com/videos/grid-layouts/)
+       / [Typography Bascis](https://www.nngroup.com/articles/using-grids-in-interface-designs/)
                             
                    
    
