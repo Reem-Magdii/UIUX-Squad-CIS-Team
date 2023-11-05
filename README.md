@@ -12,10 +12,9 @@
 -   " **User Experience (UX) design** In UX design, user behavior is analyzed, user research is carried out, user personas are created, and the product is designed to offer a seamless and fulfilling experience. UX designers ensure that the product is user-friendly, satisfies user goals and needs, and is intuitive."
  ##   
 ### **⚡"Welcome to the exciting world of UI/UX design, where creativity and problem-solving collide to create meaningful experiences for users."**
-     - **Videos**
-               - English : [Youtube Video](https://www.youtube.com/watch?v=RtPnVtXw6HU)
-               - Arabic : [Youtube Video](https://www.youtube.com/watch?v=KaIzzUs2BkI)
-
+  - **Videos**
+    - English : [Youtube Video](https://www.youtube.com/watch?v=RtPnVtXw6HU)
+    - Arabic : [Youtube Video](https://www.youtube.com/watch?v=KaIzzUs2BkI)
 
 
 
