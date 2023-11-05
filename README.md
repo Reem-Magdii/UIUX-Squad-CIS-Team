@@ -24,7 +24,7 @@
     - [UI vs UX ](https://manvisinghwal.medium.com/whats-the-difference-between-ui-ux-design-aeddfdbe3206)
     ##
     
-   ## **🟦Level 0️⃣:-**
+   **🟦Level 0️⃣:-**
    
   ### How to start with a Tool
 
