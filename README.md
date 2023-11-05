@@ -7,6 +7,6 @@
 ## **▶️What is UI/UX?**
 
 
--   " **User Interface (UI) design**In digital product or service design, it refers to the interactive and visual aspects that let people engage with the product or service. This comprises buttons, menus, navigational elements, touchscreens, and screens. An interface's usability, aesthetic appeal, and efficiency are all the products of user interface design. The user experience (UX) design process requires it as a crucial component.
+-   " **User Interface (UI) design**  In digital product or service design, it refers to the interactive and visual aspects that let people engage with the product or service. This comprises buttons, menus, navigational elements, touchscreens, and screens. An interface's usability, aesthetic appeal, and efficiency are all the products of user interface design. The user experience (UX) design process requires it as a crucial component.
 
 
