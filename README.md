@@ -13,10 +13,11 @@
  ##   
 ### **⚡"Welcome to the exciting world of UI/UX design, where creativity and problem-solving collide to create meaningful experiences for users."**
   - **Videos**
-    - English : [Youtube Video](https://www.youtube.com/watch?v=Nje7GiGeKW0&t=9s)
-                / [Youtube Video](https://www.youtube.com/watch?v=Nje7GiGeKW0&t=9s)
+    - English : [Youtube Video](https://www.youtube.com/watch?v=5CxXhyhT6Fc)
+                / [Youtube Video](https://www.youtube.com/watch?v=5CxXhyhT6Fc)
                 
-    - Arabic : [Youtube Video](https://www.youtube.com/watch?v=KaIzzUs2BkI)
+    - Arabic : [Youtube Video](https://t.me/c/1996464145/112)
+                / [Youtube Video](https://www.youtube.com/watch?v=KaIzzUs2BkI)
 
 
 
