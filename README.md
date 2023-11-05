@@ -40,14 +40,20 @@
 - English Tutorial: [Learnux Playlist](https://www.youtube.com/playlist?list=PLvnhVb8yYRQ3TDOsSgN0pf0XqG6E56IYM)
 - Arabic Tutorial :  [Youtube Playlist](https://www.youtube.com/watch?v=s1LSLX6JfX8&list=PLIW7Uli0gP7h2wvikTq5zMh8PoOQWhlpw&index=3)
 
-### Basics of UI Design.
+### Basics of UI Design
 
  - **Understanding Visual Hierarchy**
      - English : [Youtube Video](https://www.youtube.com/watch?v=DBHBmeNhYrY)
                 / [Youtube Video](https://www.youtube.com/watch?v=kg76CMOO__Y)
                 
      - Arabic : [Youtube Video](https://youtu.be/uhm5yVT8qvY?si=MPsU8ixQ1BpoFOMO)
+       
+ - **Color Theory and Usage**
+    - English : [Youtube Video](https://www.youtube.com/watch?v=Co75kmQtbaA&t=4s)
+                / [Youtube Video](https://youtu.be/GyVMoejbGFg?si=rIWLAuyatI-2tQ92)
                 
+    - Arabic : [Youtube Video](https://www.youtube.com/watch?v=mWYq_GJHxkI&list=PLlvTc0FA7nC8KzA_7-6W0zinKcKzoPYwc&index=6)
+                / [Youtube Video](https://www.youtube.com/watch?v=L3wFTVWNqJI)             
    
   
 
