@@ -22,6 +22,19 @@
   - **Articles**
     - [What’s the difference between UI & UX design?](https://manvisinghwal.medium.com/whats-the-difference-between-ui-ux-design-aeddfdbe3206)
     - [UI vs UX ](https://manvisinghwal.medium.com/whats-the-difference-between-ui-ux-design-aeddfdbe3206)
+   
+  ### How to start with a Tool
+
+**Adobe XD Tool**
+
+- English Tutorial: [Learnux Playlist](https://www.youtube.com/playlist?list=PLttcEXjN1UcHbhOF4J99QKUiOqt9ETgnb)
+- Arabic Tutorial : [Youtube Playlist](https://www.youtube.com/watch?v=4tvnBgZykto&list=PLjzhiGLyugKzxD2WKrI0riNZ9E6HoZYkH)
+
+**Figma Tool**
+
+- English Tutorial: [Learnux Playlist](https://www.youtube.com/playlist?list=PLttcEXjN1UcHu4tCUSNhhuQ4riGARGeap)
+- Arabic Tutorial :  [Youtube Playlist](https://www.youtube.com/watch?v=s1LSLX6JfX8&list=PLIW7Uli0gP7h2wvikTq5zMh8PoOQWhlpw&index=3)
+
      
       
        
