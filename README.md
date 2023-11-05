@@ -19,9 +19,9 @@
     - Arabic : [Youtube Video](https://t.me/c/1996464145/112)
                 / [Youtube Video](https://www.youtube.com/watch?v=KaIzzUs2BkI)
    
-    - **Articles**
+  - **Articles**
     - [What’s the difference between UI & UX design?](https://manvisinghwal.medium.com/whats-the-difference-between-ui-ux-design-aeddfdbe3206)
-     [](https://www.interaction-design.org/literature/article/ux-vs-ui-what-s-the-difference)
+     [gtrg](https://www.interaction-design.org/literature/article/ux-vs-ui-what-s-the-difference)
       
        
 
