@@ -70,7 +70,7 @@
     **🔷 Articles**
     - [Typography Bascis](https://careerfoundry.com/en/blog/ui-design/typography-ui-design/)
 
-   - **Grid Systems in UI Design**
+- **Grid Systems in UI Design**
     - English : [Youtube Video](https://youtu.be/PDy3RgPr6Io)
                 / [Youtube Video](https://www.youtube.com/watch?v=sybtdc4dYzE)
                 
