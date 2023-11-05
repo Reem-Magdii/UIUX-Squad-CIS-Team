@@ -43,6 +43,12 @@
 ### Basics of UI Design.
 
  - **Understanding Visual Hierarchy**
+     - English : [Youtube Video](https://www.youtube.com/watch?v=DBHBmeNhYrY)
+                / [Youtube Video](https://www.youtube.com/watch?v=kg76CMOO__Y)
+                
+     - Arabic : [Youtube Video](https://youtu.be/uhm5yVT8qvY?si=MPsU8ixQ1BpoFOMO)
+                
+   
   
 
      
