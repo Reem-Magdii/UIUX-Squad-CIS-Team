@@ -90,7 +90,7 @@
 
     - [7 steps guide to understand color theory](https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/)
     - [Color Theory Interaction Design](https://www.interaction-design.org/literature/topics/color-theory)
-    - **🔹Colors Palette**
+    **🔹Colors Palette**
         - [Color Palettes for Designers and Artists - Color Hunt](https://colorhunt.co/)
         - [Fresh Background Gradients | WebGradients.com 💎](https://webgradients.com/)
         - [ColorSpace - Color Palettes Generator and Color Gradient Tool (mycolor.space)](https://mycolor.space/)
