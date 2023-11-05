@@ -53,10 +53,23 @@
                 / [Youtube Video](https://youtu.be/GyVMoejbGFg?si=rIWLAuyatI-2tQ92)
                 
     - Arabic : [Youtube Video](https://www.youtube.com/watch?v=mWYq_GJHxkI&list=PLlvTc0FA7nC8KzA_7-6W0zinKcKzoPYwc&index=6)
-                / [Youtube Video](https://www.youtube.com/watch?v=L3wFTVWNqJI)             
+                / [Youtube Video](https://www.youtube.com/watch?v=L3wFTVWNqJI)
+    - **Articles**
+    - English : [Colors basics](https://www.interaction-design.org/literature/topics/color-theory)            
    
   
-
+ - **Typography in UI Design**
+    - English : [Youtube Video](https://www.youtube.com/watch?v=6EuBIwUeF48&t=482s)
+                / [Youtube Video](https://youtu.be/GyVMoejbGFg?si=rIWLAuyatI-2tQ92)
+                
+    - Arabic : [Youtube Video](https://www.youtube.com/watch?v=Vh8ywRVLsS4)
+                / [Youtube Video](https://www.youtube.com/watch?v=3JJDVIBdUwo)
+      
+    - **Articles**
+    - [What’s the difference between UI & UX design?](https://manvisinghwal.medium.com/whats-the-difference-between-ui-ux-design-aeddfdbe3206)
+                            
+                   
+   
      
       
        
