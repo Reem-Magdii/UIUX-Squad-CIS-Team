@@ -10,5 +10,6 @@
 -   " **User Interface (UI) design**  In digital product or service design, it refers to the interactive and visual aspects that let people engage with the product or service. This comprises buttons, menus, navigational elements, touchscreens, and screens. An interface's usability, aesthetic appeal, and efficiency are all the products of user interface design. The user experience (UX) design process requires it as a crucial component.
 
 -   " **User Experience (UX) design** In UX design, user behavior is analyzed, user research is carried out, user personas are created, and the product is designed to offer a seamless and fulfilling experience. UX designers ensure that the product is user-friendly, satisfies user goals and needs, and is intuitive."
+-   
 
 **"Welcome to the exciting world of UI/UX design, where creativity and problem-solving collide to create meaningful experiences for users."**
