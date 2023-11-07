@@ -82,6 +82,7 @@
     **🔷 Articles**
     - [Grid Sys](https://www.nngroup.com/videos/grid-layouts/)
        / [Grid sys](https://www.nngroup.com/articles/using-grids-in-interface-designs/)
+       / [How to use Grid System](https://www.interaction-design.org/literature/article/how-to-use-grid-systems)
    ##
   
  - **Color inspiration**
@@ -131,17 +132,24 @@
      - [Drawkit](https://drawkit.com/)
      - [Humaaans](https://www.humaaans.com/)
      - [Illustation](https://illustation.io/)
-        
-- **Grid**
-    - [8-Point Grid](https://spec.fm/specifics/8-pt-grid?fbclid=IwAR1g_goEhw0SNhix91zj1yLNeAvmW8Qg5Ab4ia-OiXSgvSuqgMhPlbbI9m8)
-    - [How to use Grid System](https://www.interaction-design.org/literature/article/how-to-use-grid-systems)
-    - [GRID systems for beginners](https://youtu.be/pxN8w-ywSuc)
 
 - **Typography**
     - [Fonts.google](https://fonts.google.com)
-    - / [Arab fonts](https://www.nngroup.com/articles/using-grids-in-interface-designs/)
-               
-        
+    - [Arab fonts](https://www.nngroup.com/articles/using-grids-in-interface-designs/)
+    - [Confun fonts](https://lnkd.in/d8wie5-H)
+
+      
+### Practice on how to use the tool
+    
+**Adobe XD Tool**
+
+- English Tutorial: [Learnux Playlist](https://learnux.io/course/adobe-xd)
+- 
+
+**Figma Tool**
+
+- English Tutorial: [Daily UI](https://youtube.com/playlist?list=PLoa2mke1xzkAU5Tl5THPeBbq-ayY0lr_3&si=9HVIPTeTBtSFYIrI)
+- [App UI](https://www.youtube.com/watch?v=4qg6QXreKgw&list=PLOFMxDQkrLGf5uU7mrPkmf3Ec3o5mL7yl&index=38)  
     
                             
                    
