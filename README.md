@@ -83,7 +83,26 @@
     - [Grid Sys](https://www.nngroup.com/videos/grid-layouts/)
        / [Grid sys](https://www.nngroup.com/articles/using-grids-in-interface-designs/)
        / [How to use Grid System](https://www.interaction-design.org/literature/article/how-to-use-grid-systems)
-   ##
+
+  ### Practice on how to use the tool
+    
+**Adobe XD Tool**
+
+- [Daily UI](https://www.youtube.com/playlist?list=PLhQPj7rbxEGHD7bqd1XRH28ixZfM4TXmW)
+- [Daily UI](https://youtu.be/0o68-6gGwmA?si=uwRMpEekF0QhZIf0)
+- [Daily UI](https://youtu.be/I3T-cXqVpyk?si=WAYVSRzWAFJ9hZwa)
+- [Daily UI](https://www.youtube.com/watch?v=GbnB0Yhq700)
+
+  
+
+**Figma Tool**
+
+- [Daily UI](https://youtube.com/playlist?list=PLoa2mke1xzkAU5Tl5THPeBbq-ayY0lr_3&si=9HVIPTeTBtSFYIrI)
+- [App UI](https://www.youtube.com/watch?v=30oevrZ4Uqc&list=PLOFMxDQkrLGf5uU7mrPkmf3Ec3o5mL7yl&index=7)
+- [App UI](https://www.youtube.com/watch?v=4qg6QXreKgw&list=PLOFMxDQkrLGf5uU7mrPkmf3Ec3o5mL7yl&index=38)
+- [App UI](https://youtu.be/Jy5-LPBQIdQ?si=lN8WoWyKzXswatoy)
+
+ ##
   
  - **Color inspiration**
     - [Color Hunt](https://colorhunt.co/)
@@ -143,13 +162,14 @@
     
 **Adobe XD Tool**
 
-- English Tutorial: [Learnux Playlist](https://learnux.io/course/adobe-xd)
+- [Learnux Playlist](https://learnux.io/course/adobe-xd)
 - 
 
 **Figma Tool**
-
-- English Tutorial: [Daily UI](https://youtube.com/playlist?list=PLoa2mke1xzkAU5Tl5THPeBbq-ayY0lr_3&si=9HVIPTeTBtSFYIrI)
-- [App UI](https://www.youtube.com/watch?v=4qg6QXreKgw&list=PLOFMxDQkrLGf5uU7mrPkmf3Ec3o5mL7yl&index=38)  
+- [Daily UI](https://youtube.com/playlist?list=PLoa2mke1xzkAU5Tl5THPeBbq-ayY0lr_3&si=9HVIPTeTBtSFYIrI)
+- [App UI](https://www.youtube.com/watch?v=30oevrZ4Uqc&list=PLOFMxDQkrLGf5uU7mrPkmf3Ec3o5mL7yl&index=7)
+- [App UI](https://www.youtube.com/watch?v=4qg6QXreKgw&list=PLOFMxDQkrLGf5uU7mrPkmf3Ec3o5mL7yl&index=38)
+- [App UI](https://youtu.be/Jy5-LPBQIdQ?si=lN8WoWyKzXswatoy)
     
                             
                    
