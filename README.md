@@ -138,7 +138,9 @@
     - [GRID systems for beginners](https://youtu.be/pxN8w-ywSuc)
 
 - **Typography**
-    - [Typography in UI: Guide for Beginners](https://fonts.google.com)
+    - [Fonts.google](https://fonts.google.com)
+    - / [Arab fonts](https://www.nngroup.com/articles/using-grids-in-interface-designs/)
+               
         
     
                             
