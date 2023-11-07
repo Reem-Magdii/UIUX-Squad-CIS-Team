@@ -138,10 +138,8 @@
     - [GRID systems for beginners](https://youtu.be/pxN8w-ywSuc)
 
 - **Typography**
-    - [Typography in UI: Guide for Beginners](https://blog.tubikstudio.com/typography-in-ui-guide-for-beginners/)
-        - [Google Fonts](https://fonts.google.com/)
-        - [Arabic Fonts](https://arbfonts.com/)
-    - [8 Rules for Perfect Typography in UI](https://blog.prototypr.io/8-rules-for-perfect-typography-in-ui-21b37f6f23ce)
+    - [Typography in UI: Guide for Beginners](https://fonts.google.com)
+        
     
                             
                    
