@@ -69,6 +69,9 @@
       
     **🔷 Articles**
     - [Typography Bascis](https://careerfoundry.com/en/blog/ui-design/typography-ui-design/)
+    - [Typography in UI: Guide for Beginners](https://blog.tubikstudio.com/typography-in-ui-guide-for-beginners/)
+        - [Google Fonts](https://fonts.google.com/)
+        - [Arabic Fonts](https://arbfonts.com/)
 
 - **Grid Systems in UI Design**
     - English : [Youtube Video](https://youtu.be/PDy3RgPr6Io)
