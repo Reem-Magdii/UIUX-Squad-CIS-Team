@@ -86,10 +86,10 @@
 
  ### Practice on how to use the tool
    **Adobe XD Tool**
-      - [Daily UI](https://www.youtube.com/playlist?list=PLhQPj7rbxEGHD7bqd1XRH28ixZfM4TXmW)
-      - [Task 1](https://youtu.be/0o68-6gGwmA?si=uwRMpEekF0QhZIf0)
-      - [Task 2](https://youtu.be/I3T-cXqVpyk?si=WAYVSRzWAFJ9hZwa)
-      - [Task 3](https://www.youtube.com/watch?v=GbnB0Yhq700)
+             - [Daily UI](https://www.youtube.com/playlist?list=PLhQPj7rbxEGHD7bqd1XRH28ixZfM4TXmW)
+             - [Task 1](https://youtu.be/0o68-6gGwmA?si=uwRMpEekF0QhZIf0)
+             - [Task 2](https://youtu.be/I3T-cXqVpyk?si=WAYVSRzWAFJ9hZwa)
+             - [Task 3](https://www.youtube.com/watch?v=GbnB0Yhq700)
 
    **Figma Tool**
   - [Daily UI](https://youtube.com/playlist?list=PLoa2mke1xzkAU5Tl5THPeBbq-ayY0lr_3&si=9HVIPTeTBtSFYIrI)
