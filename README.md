@@ -155,7 +155,15 @@
 
 ##
 
-### 💥🔥🪄Make a difference with your design.(Inspiration)
+### 🪄Make a difference with your design.(Inspiration)
+
+
+   
+   - [Task 1](https://dribbble.com/shots/19558096-Sign-Up-Screens-Leafboard-Mobile-Task-Management-Application)
+   - [Task 3](https://dribbble.com/shots/7345004-Hotel-Booking-App)
+   - [Task 2](https://dribbble.com/shots/8132399-Food-app)
+   - [Task 3](https://dribbble.com/shots/16438925-eCommerce-App-Chat-Cart-Profile)
+   - [Task 3](https://dribbble.com/shots/20802830-recco)
 
 
                             
