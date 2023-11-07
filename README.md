@@ -160,13 +160,33 @@
 
    
    - [Task 1](https://dribbble.com/shots/19558096-Sign-Up-Screens-Leafboard-Mobile-Task-Management-Application)
-   - [Task 3](https://dribbble.com/shots/7345004-Hotel-Booking-App)
-   - [Task 2](https://dribbble.com/shots/8132399-Food-app)
-   - [Task 3](https://dribbble.com/shots/16438925-eCommerce-App-Chat-Cart-Profile)
-   - [Task 3](https://dribbble.com/shots/20802830-recco)
+   - [Task 2](https://dribbble.com/shots/7345004-Hotel-Booking-App)
+   - [Task 3](https://dribbble.com/shots/8132399-Food-app)
+   - [Task 4](https://dribbble.com/shots/16438925-eCommerce-App-Chat-Cart-Profile)
+   - [Task 5](https://dribbble.com/shots/20802830-recco)
+##
+
+ ## **🟦Level 1️⃣:-**
+ webbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ - **Grid Systems in Web Design**
+    - English : [Youtube Video](https://www.youtube.com/watch?v=YO2AUiH2hyk&t=864s)
+                / [Youtube Video](https://www.youtube.com/watch?v=sybtdc4dYzE)
+                
+    - Arabic  : [Youtube Video](https://www.youtube.com/watch?v=Puqqgs_uLi4&t=5s)
+  
+ ### Practice many designs for web
+ 
+   - [Daily UI](https://www.youtube.com/playlist?list=PLDyQo7g0_nsWnzPqYMqoJpm08ULrkiIbt)
+   - [Task 1](https://www.youtube.com/watch?v=-l1fWhK47mo&list=PLOFMxDQkrLGf5uU7mrPkmf3Ec3o5mL7yl&index=28)
+   - [Task 2](https://www.youtube.com/watch?v=xyr3Vj83lJI)
+   - [Task 3](https://dribbble.com/shots/21273006-Bress-Admin-Dashboard-Analytics-UX)
+   - [Task 4](https://dribbble.com/shots/14829255-SquadHD-Website-UI)
+   - [Task 5](https://youtu.be/6-pzw7HXimg?si=R3zPsjaEetMLiy7h)
+ 
 
 
-                            
+
+ 
                    
    
      
