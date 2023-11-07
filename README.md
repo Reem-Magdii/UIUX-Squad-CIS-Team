@@ -205,8 +205,56 @@
                 / [Youtube Video](https://www.youtube.com/watch?v=eMgnfFHYTV8)
                 
      - XD : [Youtube Video](https://www.youtube.com/watch?v=wVJrxdVW15M)
+   
+      **🔷 Articles**
+    - [Design Systems: Step-by-Step](https://www.uxpin.com/create-design-system-guide/)
 
+      
+ ##
+
+ ### Inspiration
+
+ Note: You can search for your idea and start to build your own design as it is only inspiration.
+
+- [Behance](https://www.behance.net/)
+- [Dribble](https://dribbble.com/)
+- [Apple Design](https://developer.apple.com/design/resources/)
+- [Uplabs](https://www.uplabs.com/)
+- [Pinterest](https://www.pinterest.com/)
+- [Mobbin](https://mobbin.design/)
+ ### UI Design articles
  
+- [Guide to space and layout in UI design](https://www.justinmind.com/blog/your-guide-to-space-and-layout-in-ui-design/)
+- [Example Of Bad UI Design](https://careerfoundry.com/en/blog/ui-design/common-ui-design-mistakes/)
+- [5 Principles of Visual Design in UX](https://www.nngroup.com/articles/principles-visual-design/)
+- [7 Common Mistake To Avoid](https://uxplanet.org/is-your-ui-messy-7-common-mistakes-to-avoid-31ae18689b61)
+- [10 rules of composition all designers](https://www.canva.com/learn/visual-design-composition/)
+- [10 tips for designing the user mind](https://www.seekmomentum.com/blog/website-design/10-tips-designing-users-mind)
+
+ ### Full UI project
+
+- An idea from your mind as it will be designed for:
+    - Mobile Application
+    - Website
+ 
+ ### Mockup
+
+- [What is a Mockup?](https://www.youtube.com/watch?v=8iP2qXwk184&t=189s)
+    - [Mockup for free](https://mockupsforfree.com/)
+    - [Mockup World](https://www.mockupworld.co/)
+    - [Graphic Burger](https://graphicburger.com/)
+    - [Is graphics](https://www.ls.graphics/free-mockups)
+      
+### Portfolio
+
+- [Complete Guide to UI Portfolio](https://blog.uxfol.io/ui-designer-portfolio/)
+- [Advice for Beginners](https://www.youtube.com/watch?v=NGiQCBsVayI)
+
+
+
+### Upload project
+
+- [How To Create A Clean Portfolio Using Behance](https://www.youtube.com/watch?v=VIjZSJB1uyc) 
                    
    
      
