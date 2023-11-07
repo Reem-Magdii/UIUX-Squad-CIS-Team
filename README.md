@@ -183,9 +183,28 @@
    - [Task 4](https://dribbble.com/shots/14829255-SquadHD-Website-UI)
    - [Task 5](https://youtu.be/6-pzw7HXimg?si=R3zPsjaEetMLiy7h)
  
- ### Next Step : try to make a design system 
+ ### ⚡Next Step : try to make a design system 
  
+ - **Autolayout**
+     - Figma : [Youtube Video](https://www.youtube.com/watch?v=Y1CHg3KVQoc)
+                / [Youtube Video](https://www.youtube.com/watch?v=j55a1IFda3A)
+                
+     - XD : [Youtube Video](https://www.youtube.com/watch?v=_Xm01ZaHI6c)
+       
 
+   
+ - **Component**
+     - Figma : [Youtube Video](https://www.youtube.com/watch?v=BbTiMmnsjqE)
+                / [Youtube Video](https://www.youtube.com/watch?v=j55a1IFda3A)
+                
+     - XD : [Youtube Video](https://www.youtube.com/watch?v=hR4GWqO4WFg)
+
+          
+ - **Variant**
+     - Figma : [Youtube Video](https://youtu.be/cE2fCeWqjnY?si=4Q6f6S2wNPMfNgzl)
+                / [Youtube Video](https://www.youtube.com/watch?v=eMgnfFHYTV8)
+                
+     - XD : [Youtube Video](https://www.youtube.com/watch?v=wVJrxdVW15M)
 
  
                    
