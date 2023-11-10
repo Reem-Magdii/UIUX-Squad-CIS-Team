@@ -284,8 +284,7 @@
                     / [UX Design Process](https://www.edraak.org/en/programs/course-v1:Edraak+UX1+2018_T1/)
 
  **🔷 Articles**
-   
-   [UX Process](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
+       - [UX Process](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
    
      
       
