@@ -264,7 +264,7 @@
 ![UI/UX](https://github.com/Reem-Elatroush/UIUX-Squad-CIS-Team/assets/149952898/8a079d73-2586-4f43-beb7-4a9021e6898f)
 
 
-**let's fly high with UX**🚀
+# **let's fly high with UX**🚀
  
 ### What is UX Design
 
@@ -284,7 +284,8 @@
                     / [UX Design Process](https://www.edraak.org/en/programs/course-v1:Edraak+UX1+2018_T1/)
 
  **🔷 Articles**
-    - [UX Process](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
+   
+   [UX Process](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
    
      
       
