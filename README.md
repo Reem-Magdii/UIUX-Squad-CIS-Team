@@ -278,14 +278,13 @@
 - [Process of UX](https://www.youtube.com/embed/Um3BhY0oS2c?autoplay=1&controls=1&showinfo=0&rel=0)
 
  ### How to start with a Tool
-
-**Adobe XD Tool**
-
+ 
 - English Tutorial: [Process of UX](https://www.interaction-design.org/)
-- Arabic Tutorial : [Youtube Playlist](https://www.youtube.com/watch?v=4tvnBgZykto&list=PLjzhiGLyugKzxD2WKrI0riNZ9E6HoZYkH)
+- Arabic Tutorial : [UX Design Process](https://maharatech.gov.eg/course/view.php?id=1231)
+                    /[UX Design Process](https://www.edraak.org/en/programs/course-v1:Edraak+UX1+2018_T1/)
 
-
-
+ **🔷 Articles**
+    - [UX Process](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
    
      
       
