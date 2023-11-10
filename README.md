@@ -261,8 +261,7 @@
 
 ## **🟦Level 12️⃣:-**
 
-![UI/UX](![image](https://github.com/Reem-Elatroush/UIUX-Squad-CIS-Team/assets/149952898/7f03afc0-29b7-4d31-b12b-9705ca576ed5)
-)
+![UI/UX](photo_2023-11-11_01-11-05.jpg)
 # **UX Getting Started**🎯
  
 ### What is UX Design
