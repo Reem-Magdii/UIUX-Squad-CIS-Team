@@ -284,7 +284,8 @@
                     / [UX Design Process](https://www.edraak.org/en/programs/course-v1:Edraak+UX1+2018_T1/)
 
  **🔷 Articles**
-    - [7 Fundamental UX Design](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
+ 
+ - [7 Fundamental UX Design](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
  
    
      
