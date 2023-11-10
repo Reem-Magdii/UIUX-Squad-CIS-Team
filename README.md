@@ -261,7 +261,6 @@
 
 ## **🟦Level 12️⃣:-**
 
-![UI/UX](photo_2023-11-11_01-11-05.jpg)
 # **UX Getting Started**🎯
  
 ### What is UX Design
