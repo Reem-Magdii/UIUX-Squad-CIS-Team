@@ -286,7 +286,7 @@
  **🔷 Articles**
  
  - [7 Fundamental UX Design](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
- - - [The meaning of UX](https://careerfoundry.com/en/blog/ux-design/)
+ - 
  - .
  - ..>
 
