@@ -110,11 +110,11 @@
     - [7 steps guide to understand color theory](https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/)
     - [Color Theory Interaction Design](https://www.interaction-design.org/literature/topics/color-theory)
 
-  **🔹Colors Palette**
-    - [Color Palettes for Designers and Artists - Color Hunt](https://colorhunt.co/)
-    - [Fresh Background Gradients | WebGradients.com ](https://webgradients.com/)
-    - [ColorSpace - Color Palettes Generator and Color Gradient Tool (mycolor.space)](https://mycolor.space/)
-        
+- **🔹Colors Palette**
+        - [Color Palettes for Designers and Artists - Color Hunt](https://colorhunt.co/)
+        - [Fresh Background Gradients | WebGradients.com ](https://webgradients.com/)
+        - [ColorSpace - Color Palettes Generator and Color Gradient Tool (mycolor.space)](https://mycolor.space/)
+         
 - **Photos**
     - [Types of images in UI design](https://uxcel.com/blog/the-basic-types-of-images-in-ui-design)
         - [Freepik](https://www.freepik.com/)
