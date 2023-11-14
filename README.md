@@ -314,7 +314,7 @@
   - [ UX Competitor Analysis: Step-by-Step](https://usabilitygeek.com/how-to-do-ux-competitor-analysis/)
 
   
-  **Define:**
+  -**Define:**
     Your Users' Needs and Problems.
     
   **1- 🙋🏻‍♂️Persona:**
@@ -340,8 +340,40 @@
   - [ UX Journey Map: Step-by-Step](https://uxbooth.com/articles/empathy-mapping-a-guide-to-getting-inside-a-users-head/)
 
  
-      
-       
+  -**Ideate:**
+     Challenge Assumptions and Create Ideas
+    
+  **1- ⏳User Flow:**
+  - English : [Youtube Video](https://www.youtube.com/watch?v=cvYhuowazh0&t=180s)
+  - Arabic : [Youtube Video](https://www.youtube.com/watch?v=QhN2-gnuaVA)
+   
+  **🔷 Articles**
+  - [UX User Flow : Step-by-Step](https://uxplanet.org/the-beginners-guide-to-user-flow-in-ux-design-2022-7a0ab8c7d0bd)
+
+  **2- 📐Information Architecture:**
+  - English : [Youtube Video](https://www.youtube.com/watch?v=OJLfjgVlwDo)
+  - Arabic : [Youtube Video](https://www.youtube.com/watch?v=TtvOiDxRPtE)
+   
+  **🔷 Articles**
+  - [ UX Information Architecture: Step-by-Step](https://www.toptal.com/designers/ia/guide-to-information-architecture#:~:text=Information%20architecture%20(IA)%20is%2C,behaviors%2C%20content%2C%20and%20flows)
+   
+  -**Design:**
+    Your Users' Needs and Problems.
+    
+  **1- Wireframe:**
+  - English : [Youtube Video](https://www.youtube.com/watch?v=qpH7-KFWZRI)
+  - Arabic : [Youtube Video](https://www.youtube.com/watch?v=QhN2-gnuaVA)
+   
+  **🔷 Articles**
+  - [UX User Flow : Step-by-Step](https://uxplanet.org/the-beginners-guide-to-user-flow-in-ux-design-2022-7a0ab8c7d0bd)
+
+  **2- 📐Information Architecture:**
+  - English : [Youtube Video](https://www.youtube.com/watch?v=OJLfjgVlwDo)
+  - Arabic : [Youtube Video](https://www.youtube.com/watch?v=rF0Ta5z8k3Y)
+   
+  **🔷 Articles**
+  - [ UX Wireframe: Step-by-Step](https://medium.com/detaux/what-is-ui-ux-wireframe-designerrs-46dac9c8a153)
+        
 
 
     
