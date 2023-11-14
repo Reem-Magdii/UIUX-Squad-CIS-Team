@@ -294,8 +294,8 @@
 
 ### The first step is to find a [Product idea](https://www.youtube.com/watch?v=_yinLUI_U1Y&list=PLK9t9dlS8Xr8EMO6DhUQLeEo2RB7Y9BI9&index=4) you can be the stakeholder with the idea at your first time.
 
-- **Emphasis:**
-  Research Your Users' Needs
+  
+ ### Emphasis: Research Your Users' Needs
   
   **1- 📝User Research:**
   
@@ -314,7 +314,7 @@
   - [ UX Competitor Analysis: Step-by-Step](https://usabilitygeek.com/how-to-do-ux-competitor-analysis/)
 
   
-  ##**Define:**
+  **Define:**
     Your Users' Needs and Problems.
     
   **1- 🙋🏻‍♂️Persona:**
