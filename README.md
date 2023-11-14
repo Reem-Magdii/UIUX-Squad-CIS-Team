@@ -353,7 +353,7 @@
   - [ UX Information Architecture: Step-by-Step](https://www.toptal.com/designers/ia/guide-to-information-architecture#:~:text=Information%20architecture%20(IA)%20is%2C,behaviors%2C%20content%2C%20and%20flows)
    
   
-   ### Design:the intentional creation of something to meet a specific need or purpose..
+   ### Design:the intentional creation of something to meet a specific need or purpose.
     
   **1- 🧾Wireframe:**
   - English : [Youtube Video](https://www.youtube.com/watch?v=qpH7-KFWZRI)
@@ -383,6 +383,7 @@
   - English : [Youtube Video](https://www.youtube.com/watch?v=hHvh_0Nnrx0)
   - Arabic : [Youtube Video](https://www.youtube.com/watch?v=E9d7hVmpRTA)
              /[Youtube Video](https://www.youtube.com/watch?v=bKtZ4PNryP4)
+    
   **🔷 Articles**
   - [ UX Usability Testing: Step-by-Step](https://www.nngroup.com/articles/usability-testing-101/)
 
