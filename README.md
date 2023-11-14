@@ -304,7 +304,7 @@
    - Arabic : [Youtube Video](https://www.youtube.com/watch?v=qo_hviKTUfg&feature=youtu.be)
   
   **🔷 Articles**
-   - [User Research: Step-by-Step](https://bootcamp.learn.utoronto.ca/blog/what-is-a-ux-researcher/)
+   - [UX User Research: Step-by-Step](https://bootcamp.learn.utoronto.ca/blog/what-is-a-ux-researcher/)
        
   **2- 📈Compatitor Analysis:**
   - English : [Youtube Video](https://www.youtube.com/watch?v=hZ1x5FEfFCY)
@@ -330,9 +330,15 @@
   - Arabic : [Youtube Video](https://www.youtube.com/watch?v=tnSllYKWlSs)
    
   **🔷 Articles**
-  - [ UX Competitor Analysis: Step-by-Step](https://usabilitygeek.com/how-to-do-ux-competitor-analysis/)
+  - [ UX Empathy Map: Step-by-Step](https://www.nngroup.com/articles/empathy-mapping/)
 
- 
+   **3- 🛣️Journey Map:**
+  - English : [Youtube Video](https://www.youtube.com/watch?v=9HwpR3Njq00)
+  - Arabic : [Youtube Video](https://www.youtube.com/watch?v=tnSllYKWlSs)
+   
+  **🔷 Articles**
+  - [ UX Empathy Map: Step-by-Step](https://uxbooth.com/articles/empathy-mapping-a-guide-to-getting-inside-a-users-head/)
+
  
       
        
