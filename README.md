@@ -294,9 +294,9 @@
 
 ### The first step is to find a [Product idea](https://www.youtube.com/watch?v=_yinLUI_U1Y&list=PLK9t9dlS8Xr8EMO6DhUQLeEo2RB7Y9BI9&index=4) you can be the stakeholder with the idea at your first time.
 
-100. First list item
+**1-First list item**
        - First nested list item
-         - Second nested list item
+        
  
  
  
