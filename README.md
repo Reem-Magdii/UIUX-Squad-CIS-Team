@@ -297,9 +297,14 @@
 - **Emphasis:**
    Empathy is seeing with the eyes of another, listening with the ears of another, and feeling with the heart of another.
   
-        
+  **1-Variant**
+      
  
- 
+    - English : [Youtube Video](https://www.youtube.com/watch?v=DBHBmeNhYrY)
+                / [Youtube Video](https://www.youtube.com/watch?v=kg76CMOO__Y)
+                
+     - Arabic : [Youtube Video](https://youtu.be/uhm5yVT8qvY?si=MPsU8ixQ1BpoFOMO)
+       
  
    
      
