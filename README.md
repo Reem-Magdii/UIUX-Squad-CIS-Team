@@ -23,10 +23,9 @@
   - **Articles**
     - [What’s the difference between UI & UX design?](https://manvisinghwal.medium.com/whats-the-difference-between-ui-ux-design-aeddfdbe3206)
     - [UI vs UX ](https://manvisinghwal.medium.com/whats-the-difference-between-ui-ux-design-aeddfdbe3206)
-      
- ## 
     
- ## **🟦Level 0️⃣:-**
+    
+ ## **▶️Level 0️⃣:-**
    
  ### How to start with a Tool
 
@@ -166,7 +165,7 @@
    - [Task 4](https://dribbble.com/shots/16438925-eCommerce-App-Chat-Cart-Profile)
    - [Task 5](https://dribbble.com/shots/20802830-recco)
 
- ## **🟦Level 1️⃣:-**
+ ## **▶️Level 1️⃣:-**
  
 ### **⚡Start your web design journey**
 - **Grid Systems in Web Design**
@@ -258,7 +257,7 @@
 - [How To Create A Clean Portfolio Using Behance](https://www.youtube.com/watch?v=VIjZSJB1uyc)
 
 
-## **🟦Level2️⃣:-**
+## **▶️Level2️⃣:-**
 
 ![UI/UX](https://github.com/Reem-Elatroush/UIUX-Squad-CIS-Team/assets/149952898/8a079d73-2586-4f43-beb7-4a9021e6898f)
 
@@ -287,7 +286,7 @@
  - [7 Fundamental UX Design](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
    
 
-## **🟦Level3️⃣:-**
+## **▶️Level3️⃣:-**
 
 ### The first step is to find a [Product idea](https://www.youtube.com/watch?v=_yinLUI_U1Y&list=PLK9t9dlS8Xr8EMO6DhUQLeEo2RB7Y9BI9&index=4) you can be the stakeholder with the idea at your first time.
 
