@@ -314,7 +314,7 @@
   - [ UX Competitor Analysis: Step-by-Step](https://usabilitygeek.com/how-to-do-ux-competitor-analysis/)
 
   
-  - **Define:**
+  **Define:**
     Your Users' Needs and Problems.
     
   **1- 🙋🏻‍♂️Persona:**
@@ -333,11 +333,11 @@
   - [ UX Empathy Map: Step-by-Step](https://www.nngroup.com/articles/empathy-mapping/)
 
    **3- 🛣️Journey Map:**
-  - English : [Youtube Video](https://www.youtube.com/watch?v=9HwpR3Njq00)
-  - Arabic : [Youtube Video](https://www.youtube.com/watch?v=tnSllYKWlSs)
+  - English : [Youtube Video](https://youtu.be/3Tge09u8RQ8)
+  - Arabic : [Youtube Video](https://www.youtube.com/watch?v=SKhIfTyKzFA)
    
   **🔷 Articles**
-  - [ UX Empathy Map: Step-by-Step](https://uxbooth.com/articles/empathy-mapping-a-guide-to-getting-inside-a-users-head/)
+  - [ UX Journey Map: Step-by-Step](https://uxbooth.com/articles/empathy-mapping-a-guide-to-getting-inside-a-users-head/)
 
  
       
