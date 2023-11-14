@@ -297,17 +297,21 @@
 - **Emphasis:**
    Empathy is seeing with the eyes of another, listening with the ears of another, and feeling with the heart of another.
   
-  **1-Variant**
-      
- 
-    - English : [Youtube Video](https://www.youtube.com/watch?v=DBHBmeNhYrY)
-                / [Youtube Video](https://www.youtube.com/watch?v=kg76CMOO__Y)
-                
-     - Arabic : [Youtube Video](https://youtu.be/uhm5yVT8qvY?si=MPsU8ixQ1BpoFOMO)
+  **1- 📝User Research**
+      - English : [Youtube Video](https://www.youtube.com/watch?v=bAARmsv1tms)
+                 /[Youtube Video](https://www.youtube.com/watch?v=6iKSTHuQSLw)
+      - Arabic : [Youtube Video](https://www.youtube.com/watch?v=qo_hviKTUfg&feature=youtu.be)
+  
+  **🔷 Articles**
+     - [Design Systems: Step-by-Step](https://www.uxpin.com/create-design-system-guide/)
        
- 
+  **2- 📈Compatitor Analysis**
+      - English : [Youtube Video](https://www.youtube.com/watch?v=hZ1x5FEfFCY)
+      - Arabic : [Youtube Video](https://www.youtube.com/watch?v=gzaQSIjrEho&feature=youtu.be)
    
-     
+  **🔷 Articles**
+     - [ UX Competitor Analysis: Step-by-Step](https://usabilitygeek.com/how-to-do-ux-competitor-analysis/)
+ 
       
        
 
