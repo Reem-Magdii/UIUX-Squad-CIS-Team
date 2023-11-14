@@ -314,7 +314,7 @@
   - [ UX Competitor Analysis: Step-by-Step](https://usabilitygeek.com/how-to-do-ux-competitor-analysis/)
 
   
-  -**Define:**
+  #**Define:**
     Your Users' Needs and Problems.
     
   **1- 🙋🏻‍♂️Persona:**
