@@ -165,7 +165,6 @@
    - [Task 3](https://dribbble.com/shots/8132399-Food-app)
    - [Task 4](https://dribbble.com/shots/16438925-eCommerce-App-Chat-Cart-Profile)
    - [Task 5](https://dribbble.com/shots/20802830-recco)
-##
 
  ## **🟦Level 1️⃣:-**
  
@@ -258,7 +257,6 @@
 
 - [How To Create A Clean Portfolio Using Behance](https://www.youtube.com/watch?v=VIjZSJB1uyc)
 
-##
 
 ## **🟦Level2️⃣:-**
 
@@ -288,7 +286,6 @@
  
  - [7 Fundamental UX Design](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
    
-##
 
 ## **🟦Level3️⃣:-**
 
@@ -357,7 +354,7 @@
   - [ UX Information Architecture: Step-by-Step](https://www.toptal.com/designers/ia/guide-to-information-architecture#:~:text=Information%20architecture%20(IA)%20is%2C,behaviors%2C%20content%2C%20and%20flows)
    
   
-   ### Design: Your Users' Needs and Problems.
+   ### Design:the intentional creation of something to meet a specific need or purpose..
     
   **1- 🧾Wireframe:**
   - English : [Youtube Video](https://www.youtube.com/watch?v=qpH7-KFWZRI)
@@ -367,23 +364,53 @@
   - [ UX Wireframe: Step-by-Step](https://medium.com/detaux/what-is-ui-ux-wireframe-designerrs-46dac9c8a153)
     
   **2- 📲Prototype:**
-  - English : [Youtube Video](https://www.youtube.com/watch?v=qpH7-KFWZRI)
-  - Arabic : [Youtube Video](https://www.youtube.com/watch?v=rF0Ta5z8k3Y)
+  - English : [Youtube Video](https://www.youtube.com/watch?v=L22lDu3QX2c)
+  - Arabic : [Youtube Video]([https://www.youtube.com/watch?v=rF0Ta5z8k3Y](https://www.youtube.com/watch?v=Qjw4fREOl9M))
    
   **🔷 Articles**
-  - [ UX Wireframe: Step-by-Step](https://medium.com/detaux/what-is-ui-ux-wireframe-designerrs-46dac9c8a153)
+  - [ UX Prototype: Step-by-Step]([https://medium.com/detaux/what-is-ui-ux-wireframe-designerrs-46dac9c8a153](https://www.uxpin.com/studio/blog/what-is-a-prototype-a-guide-to-functional-ux/))
 
-  **2- Visual Design:**
-  - English : [Youtube Video](https://www.youtube.com/watch?v=OJLfjgVlwDo)
-  - Arabic : [Youtube Video](https://www.youtube.com/watch?v=rF0Ta5z8k3Y)
+  **3- 📱Visual Design:**
+  - English : [Youtube Video](https://www.youtube.com/watch?v=yNDgFK2Jj1E)
    
   **🔷 Articles**
-  - [ UX Wireframe: Step-by-Step](https://medium.com/detaux/what-is-ui-ux-wireframe-designerrs-46dac9c8a153)
+  - [ UX Visual Design: Step-by-Step](https://uxbooth.com/articles/how-visual-design-makes-for-great-ux/)
         
 
-
+ 
+   ### Test:  the process of evaluating a design or prototype to identify and fix any problems before it is released to the public.
     
+  **1- 🧪Usability & A/B Testing:**
+  - English : [Youtube Video](https://www.youtube.com/watch?v=hHvh_0Nnrx0)
+  - Arabic : [Youtube Video](https://www.youtube.com/watch?v=E9d7hVmpRTA)
+             /[Youtube Video](https://www.youtube.com/watch?v=bKtZ4PNryP4)
+  **🔷 Articles**
+  - [ UX Usability Testing: Step-by-Step](https://www.nngroup.com/articles/usability-testing-101/)
 
 
-
+  **2- 🤩Implementing Feedback:**
+  - English : [Youtube Video](https://www.youtube.com/watch?v=YFCistZV8wY)
+   
+  **🔷 Articles**
+  - [ UX Wireframe: Step-by-Step](https://givegoodux.com/feedback-5-principles-interaction-design-supercharge-ui-5-5/)
       
+
+  ### Reading books
+
+- [The Design of Everyday Things](https://drive.google.com/drive/folders/1Axoq6lz3BrWd8dAiBhfm3d5YzDANgByQ?usp=sharing)
+- [100 Things Every Designer Needs to Know about People](https://drive.google.com/drive/folders/1dhWkcjJYZXIoY5uzgIAAa08ld1uBM9IB?usp=sharing)
+- [Don't Make Me Think](https://drive.google.com/drive/folders/1CcB-yniVb7gPPb2iKtm-AVCi7KXup5Eh?usp=sharing)
+- [The Actionable Guide to Starting Your Design System](https://drive.google.com/drive/folders/1KTmzWMcdzorubP3gq78Q6ur18eZv9Vji?usp=sharing)
+- [The Elements of Successful UX Design](https://drive.google.com/drive/folders/1fAQqW3e_iuoxy9eH_QIqCkMx5hYDe3wz?usp=sharing)
+- [Meaningful Mobile Typography](https://drive.google.com/drive/folders/1ZV0WnjAGzoTWIAEvHBVFi_FXxp5A_JlD?usp=sharing)
+- [More Books](https://drive.google.com/drive/mobile/folders/1Ju0u-PeAyyxvj2exvmKkzLQEx5oC7Tfu?usp=sharing)
+
+ 
+Congratulation, we hope for you all the best, **CIS Mentors.**
+
+## **▶️Our Contacts📱**
+<a href="https://www.facebook.com/manarosman70/"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mannarosman/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+
+<a href="https://m.facebook.com/doaa.hamdy.5895"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="http://linkedin.com/in/doaa-hamdy-8598201b4" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>   
