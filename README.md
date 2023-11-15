@@ -405,12 +405,11 @@
 - [Meaningful Mobile Typography](https://drive.google.com/drive/folders/1ZV0WnjAGzoTWIAEvHBVFi_FXxp5A_JlD?usp=sharing)
 - [More Books](https://drive.google.com/drive/mobile/folders/1Ju0u-PeAyyxvj2exvmKkzLQEx5oC7Tfu?usp=sharing)
 
- 
-Congratulation, we hope for you all the best, **CIS Mentors.**
+🎉Warmest congratulations on your achievement! Wishing you even more success in the future,**CIS Mentors.**
 
 ## **▶️Our Contacts📱**
-<a href="https:[https://www.facebook.com/reem.elatroush?mibextid=LQQJ4d](https://www.facebook.com/reem.elatroush?mibextid=LQQJ4d)"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/manarosman70/"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mannarosman/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
 <a href="https://m.facebook.com/doaa.hamdy.5895"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="http://linkedin.com/in/doaa-hamdy-8598201b4" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>   
+<a href="http://linkedin.com/in/doaa-hamdy-8598201b4" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
