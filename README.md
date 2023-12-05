@@ -149,9 +149,9 @@
      - [Illustation](https://illustation.io/)
 
 - **Typography**
-    - [Fonts.google](https://fonts.google.com)
-    - [Arab fonts](https://www.nngroup.com/articles/using-grids-in-interface-designs/)
-    - [Confun fonts](https://lnkd.in/d8wie5-H)
+    - [Fonts google](https://fonts.google.com)
+    - [Arab fonts](https://arbfonts.com/)
+    - [dafont](https://www.dafont.com/)
 
 ##
 
