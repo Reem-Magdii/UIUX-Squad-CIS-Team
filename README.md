@@ -83,6 +83,14 @@
        / [Grid sys](https://www.nngroup.com/articles/using-grids-in-interface-designs/)
        / [How to use Grid System](https://www.interaction-design.org/literature/article/how-to-use-grid-systems)
 
+      **Spacing**
+    - English : [Youtube Video](https://www.youtube.com/watch?v=U2hNJOIbsic)
+                / [Youtube Video](https://www.youtube.com/watch?v=A0Ev_4zto4Y)
+      
+    **🔷 Articles**
+    - [Spacing Guide](https://www.thedesignership.com/blog/the-ultimate-spacing-guide-for-ui-designers)
+       / [Spacing and Layout](https://paste.twilio.design/foundations/spacing-and-layout)
+      
  ### Practice on how to use the tool
    **Adobe XD Tool**
    - [Daily UI](https://www.youtube.com/playlist?list=PLhQPj7rbxEGHD7bqd1XRH28ixZfM4TXmW)
