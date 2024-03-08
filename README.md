@@ -83,7 +83,7 @@
        / [Grid sys](https://www.nngroup.com/articles/using-grids-in-interface-designs/)
        / [How to use Grid System](https://www.interaction-design.org/literature/article/how-to-use-grid-systems)
 
-  - **Spacing**
+- **Spacing**
     - English : [Youtube Video](https://www.youtube.com/watch?v=U2hNJOIbsic)
                 / [Youtube Video](https://www.youtube.com/watch?v=A0Ev_4zto4Y)
       
