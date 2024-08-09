@@ -414,6 +414,16 @@
 - [Meaningful Mobile Typography](https://drive.google.com/drive/folders/1ZV0WnjAGzoTWIAEvHBVFi_FXxp5A_JlD?usp=sharing)
 - [More Books](https://drive.google.com/drive/mobile/folders/1Ju0u-PeAyyxvj2exvmKkzLQEx5oC7Tfu?usp=sharing)
 
+
+ ### Courses
+
+- [Product Design - Udacity](https://www.udacity.com/course/product-design--ud509)
+- [Product Design - Coursera](https://www.coursera.org/professional-certificates/google-ux-design)
+- [Product Design - EDX](https://www.edx.org/learn/product-design/the-university-of-maryland-college-park-product-design-prototyping-and-testing)
+- [UI/UX Courses](https://www.coursera.org/search?query=UI%2FUX%20courses&source=deprecated_spark_cdp&tab=all)
+- [User Interface Design Specialization](https://www.coursera.org/specializations/user-interface-design)
+
+
 🎉Warmest congratulations on your achievement! Wishing you even more success in the future,**CIS Mentors.**
 
 ## **▶️Our Contacts📱**
