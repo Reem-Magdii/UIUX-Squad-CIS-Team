@@ -222,6 +222,9 @@
 - [Uplabs](https://www.uplabs.com/)
 - [Pinterest](https://www.pinterest.com/)
 - [Mobbin](https://mobbin.design/)
+- [Chamjo](https://chamjo.design/)
+- [Lookup](https://lookup.design/search?query=card&page=1)
+  
  ### UI Design articles
  
 - [Guide to space and layout in UI design](https://www.justinmind.com/blog/your-guide-to-space-and-layout-in-ui-design/)
