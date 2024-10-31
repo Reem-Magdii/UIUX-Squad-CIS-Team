@@ -17,7 +17,7 @@
     - English : [Youtube Video](https://www.youtube.com/watch?v=5CxXhyhT6Fc)
                 / [Youtube Video](https://www.youtube.com/watch?v=5CxXhyhT6Fc)
                 
-    - Arabic : [Youtube Video](https://t.me/c/1996464145/112)
+    - Arabic : [Youtube Video](https://youtu.be/LNMvCBxHAEU?si=9Od3qJqYLyZtTOaX)
                 / [Youtube Video](https://www.youtube.com/watch?v=KaIzzUs2BkI)
    
   - **Articles**
